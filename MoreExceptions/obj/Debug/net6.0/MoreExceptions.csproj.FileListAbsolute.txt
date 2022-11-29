@@ -1,0 +1,15 @@
+C:\Users\walbh\source\repos\HackerRank30Days\MoreExceptions\bin\Debug\net6.0\MoreExceptions.exe
+C:\Users\walbh\source\repos\HackerRank30Days\MoreExceptions\bin\Debug\net6.0\MoreExceptions.deps.json
+C:\Users\walbh\source\repos\HackerRank30Days\MoreExceptions\bin\Debug\net6.0\MoreExceptions.runtimeconfig.json
+C:\Users\walbh\source\repos\HackerRank30Days\MoreExceptions\bin\Debug\net6.0\MoreExceptions.dll
+C:\Users\walbh\source\repos\HackerRank30Days\MoreExceptions\bin\Debug\net6.0\MoreExceptions.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\MoreExceptions\obj\Debug\net6.0\MoreExceptions.csproj.AssemblyReference.cache
+C:\Users\walbh\source\repos\HackerRank30Days\MoreExceptions\obj\Debug\net6.0\MoreExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walbh\source\repos\HackerRank30Days\MoreExceptions\obj\Debug\net6.0\MoreExceptions.AssemblyInfoInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\MoreExceptions\obj\Debug\net6.0\MoreExceptions.AssemblyInfo.cs
+C:\Users\walbh\source\repos\HackerRank30Days\MoreExceptions\obj\Debug\net6.0\MoreExceptions.csproj.CoreCompileInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\MoreExceptions\obj\Debug\net6.0\MoreExceptions.dll
+C:\Users\walbh\source\repos\HackerRank30Days\MoreExceptions\obj\Debug\net6.0\refint\MoreExceptions.dll
+C:\Users\walbh\source\repos\HackerRank30Days\MoreExceptions\obj\Debug\net6.0\MoreExceptions.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\MoreExceptions\obj\Debug\net6.0\MoreExceptions.genruntimeconfig.cache
+C:\Users\walbh\source\repos\HackerRank30Days\MoreExceptions\obj\Debug\net6.0\ref\MoreExceptions.dll

@@ -1,0 +1,15 @@
+C:\Users\walbh\source\repos\HackerRank30Days\ExceptionsStringToInteger\bin\Debug\net6.0\ExceptionsStringToInteger.exe
+C:\Users\walbh\source\repos\HackerRank30Days\ExceptionsStringToInteger\bin\Debug\net6.0\ExceptionsStringToInteger.deps.json
+C:\Users\walbh\source\repos\HackerRank30Days\ExceptionsStringToInteger\bin\Debug\net6.0\ExceptionsStringToInteger.runtimeconfig.json
+C:\Users\walbh\source\repos\HackerRank30Days\ExceptionsStringToInteger\bin\Debug\net6.0\ExceptionsStringToInteger.dll
+C:\Users\walbh\source\repos\HackerRank30Days\ExceptionsStringToInteger\bin\Debug\net6.0\ExceptionsStringToInteger.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\ExceptionsStringToInteger\obj\Debug\net6.0\ExceptionsStringToInteger.csproj.AssemblyReference.cache
+C:\Users\walbh\source\repos\HackerRank30Days\ExceptionsStringToInteger\obj\Debug\net6.0\ExceptionsStringToInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walbh\source\repos\HackerRank30Days\ExceptionsStringToInteger\obj\Debug\net6.0\ExceptionsStringToInteger.AssemblyInfoInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\ExceptionsStringToInteger\obj\Debug\net6.0\ExceptionsStringToInteger.AssemblyInfo.cs
+C:\Users\walbh\source\repos\HackerRank30Days\ExceptionsStringToInteger\obj\Debug\net6.0\ExceptionsStringToInteger.csproj.CoreCompileInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\ExceptionsStringToInteger\obj\Debug\net6.0\ExceptionsStringToInteger.dll
+C:\Users\walbh\source\repos\HackerRank30Days\ExceptionsStringToInteger\obj\Debug\net6.0\refint\ExceptionsStringToInteger.dll
+C:\Users\walbh\source\repos\HackerRank30Days\ExceptionsStringToInteger\obj\Debug\net6.0\ExceptionsStringToInteger.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\ExceptionsStringToInteger\obj\Debug\net6.0\ExceptionsStringToInteger.genruntimeconfig.cache
+C:\Users\walbh\source\repos\HackerRank30Days\ExceptionsStringToInteger\obj\Debug\net6.0\ref\ExceptionsStringToInteger.dll

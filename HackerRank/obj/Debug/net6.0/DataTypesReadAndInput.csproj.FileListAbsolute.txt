@@ -1,0 +1,15 @@
+C:\Users\walbh\source\repos\HackerRank\HackerRank\bin\Debug\net6.0\DataTypesReadAndInput.exe
+C:\Users\walbh\source\repos\HackerRank\HackerRank\bin\Debug\net6.0\DataTypesReadAndInput.deps.json
+C:\Users\walbh\source\repos\HackerRank\HackerRank\bin\Debug\net6.0\DataTypesReadAndInput.runtimeconfig.json
+C:\Users\walbh\source\repos\HackerRank\HackerRank\bin\Debug\net6.0\DataTypesReadAndInput.dll
+C:\Users\walbh\source\repos\HackerRank\HackerRank\bin\Debug\net6.0\DataTypesReadAndInput.pdb
+C:\Users\walbh\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\DataTypesReadAndInput.csproj.AssemblyReference.cache
+C:\Users\walbh\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\DataTypesReadAndInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walbh\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\DataTypesReadAndInput.AssemblyInfoInputs.cache
+C:\Users\walbh\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\DataTypesReadAndInput.AssemblyInfo.cs
+C:\Users\walbh\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\DataTypesReadAndInput.csproj.CoreCompileInputs.cache
+C:\Users\walbh\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\DataTypesReadAndInput.dll
+C:\Users\walbh\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\refint\DataTypesReadAndInput.dll
+C:\Users\walbh\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\DataTypesReadAndInput.pdb
+C:\Users\walbh\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\DataTypesReadAndInput.genruntimeconfig.cache
+C:\Users\walbh\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\ref\DataTypesReadAndInput.dll

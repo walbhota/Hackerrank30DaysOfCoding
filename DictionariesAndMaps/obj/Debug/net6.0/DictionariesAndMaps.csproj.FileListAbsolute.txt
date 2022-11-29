@@ -1,0 +1,15 @@
+C:\Users\walbh\source\repos\HackerRank30Days\DictionariesAndMaps\bin\Debug\net6.0\DictionariesAndMaps.exe
+C:\Users\walbh\source\repos\HackerRank30Days\DictionariesAndMaps\bin\Debug\net6.0\DictionariesAndMaps.deps.json
+C:\Users\walbh\source\repos\HackerRank30Days\DictionariesAndMaps\bin\Debug\net6.0\DictionariesAndMaps.runtimeconfig.json
+C:\Users\walbh\source\repos\HackerRank30Days\DictionariesAndMaps\bin\Debug\net6.0\DictionariesAndMaps.dll
+C:\Users\walbh\source\repos\HackerRank30Days\DictionariesAndMaps\bin\Debug\net6.0\DictionariesAndMaps.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\DictionariesAndMaps\obj\Debug\net6.0\DictionariesAndMaps.csproj.AssemblyReference.cache
+C:\Users\walbh\source\repos\HackerRank30Days\DictionariesAndMaps\obj\Debug\net6.0\DictionariesAndMaps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walbh\source\repos\HackerRank30Days\DictionariesAndMaps\obj\Debug\net6.0\DictionariesAndMaps.AssemblyInfoInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\DictionariesAndMaps\obj\Debug\net6.0\DictionariesAndMaps.AssemblyInfo.cs
+C:\Users\walbh\source\repos\HackerRank30Days\DictionariesAndMaps\obj\Debug\net6.0\DictionariesAndMaps.csproj.CoreCompileInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\DictionariesAndMaps\obj\Debug\net6.0\DictionariesAndMaps.dll
+C:\Users\walbh\source\repos\HackerRank30Days\DictionariesAndMaps\obj\Debug\net6.0\refint\DictionariesAndMaps.dll
+C:\Users\walbh\source\repos\HackerRank30Days\DictionariesAndMaps\obj\Debug\net6.0\DictionariesAndMaps.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\DictionariesAndMaps\obj\Debug\net6.0\DictionariesAndMaps.genruntimeconfig.cache
+C:\Users\walbh\source\repos\HackerRank30Days\DictionariesAndMaps\obj\Debug\net6.0\ref\DictionariesAndMaps.dll

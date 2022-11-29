@@ -1,0 +1,15 @@
+C:\Users\walbh\source\repos\HackerRank30Days\BTS-LevelOrder-Traversal\bin\Debug\net6.0\BTS-LevelOrder-Traversal.exe
+C:\Users\walbh\source\repos\HackerRank30Days\BTS-LevelOrder-Traversal\bin\Debug\net6.0\BTS-LevelOrder-Traversal.deps.json
+C:\Users\walbh\source\repos\HackerRank30Days\BTS-LevelOrder-Traversal\bin\Debug\net6.0\BTS-LevelOrder-Traversal.runtimeconfig.json
+C:\Users\walbh\source\repos\HackerRank30Days\BTS-LevelOrder-Traversal\bin\Debug\net6.0\BTS-LevelOrder-Traversal.dll
+C:\Users\walbh\source\repos\HackerRank30Days\BTS-LevelOrder-Traversal\bin\Debug\net6.0\BTS-LevelOrder-Traversal.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\BTS-LevelOrder-Traversal\obj\Debug\net6.0\BTS-LevelOrder-Traversal.csproj.AssemblyReference.cache
+C:\Users\walbh\source\repos\HackerRank30Days\BTS-LevelOrder-Traversal\obj\Debug\net6.0\BTS-LevelOrder-Traversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walbh\source\repos\HackerRank30Days\BTS-LevelOrder-Traversal\obj\Debug\net6.0\BTS-LevelOrder-Traversal.AssemblyInfoInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\BTS-LevelOrder-Traversal\obj\Debug\net6.0\BTS-LevelOrder-Traversal.AssemblyInfo.cs
+C:\Users\walbh\source\repos\HackerRank30Days\BTS-LevelOrder-Traversal\obj\Debug\net6.0\BTS-LevelOrder-Traversal.csproj.CoreCompileInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\BTS-LevelOrder-Traversal\obj\Debug\net6.0\BTS-LevelOrder-Traversal.dll
+C:\Users\walbh\source\repos\HackerRank30Days\BTS-LevelOrder-Traversal\obj\Debug\net6.0\refint\BTS-LevelOrder-Traversal.dll
+C:\Users\walbh\source\repos\HackerRank30Days\BTS-LevelOrder-Traversal\obj\Debug\net6.0\BTS-LevelOrder-Traversal.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\BTS-LevelOrder-Traversal\obj\Debug\net6.0\BTS-LevelOrder-Traversal.genruntimeconfig.cache
+C:\Users\walbh\source\repos\HackerRank30Days\BTS-LevelOrder-Traversal\obj\Debug\net6.0\ref\BTS-LevelOrder-Traversal.dll

@@ -1,0 +1,15 @@
+C:\Users\walbh\source\repos\HackerRank30Days\Loop\bin\Debug\net6.0\Loop.exe
+C:\Users\walbh\source\repos\HackerRank30Days\Loop\bin\Debug\net6.0\Loop.deps.json
+C:\Users\walbh\source\repos\HackerRank30Days\Loop\bin\Debug\net6.0\Loop.runtimeconfig.json
+C:\Users\walbh\source\repos\HackerRank30Days\Loop\bin\Debug\net6.0\Loop.dll
+C:\Users\walbh\source\repos\HackerRank30Days\Loop\bin\Debug\net6.0\Loop.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\Loop\obj\Debug\net6.0\Loop.csproj.AssemblyReference.cache
+C:\Users\walbh\source\repos\HackerRank30Days\Loop\obj\Debug\net6.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walbh\source\repos\HackerRank30Days\Loop\obj\Debug\net6.0\Loop.AssemblyInfoInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\Loop\obj\Debug\net6.0\Loop.AssemblyInfo.cs
+C:\Users\walbh\source\repos\HackerRank30Days\Loop\obj\Debug\net6.0\Loop.csproj.CoreCompileInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\Loop\obj\Debug\net6.0\Loop.dll
+C:\Users\walbh\source\repos\HackerRank30Days\Loop\obj\Debug\net6.0\refint\Loop.dll
+C:\Users\walbh\source\repos\HackerRank30Days\Loop\obj\Debug\net6.0\Loop.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\Loop\obj\Debug\net6.0\Loop.genruntimeconfig.cache
+C:\Users\walbh\source\repos\HackerRank30Days\Loop\obj\Debug\net6.0\ref\Loop.dll

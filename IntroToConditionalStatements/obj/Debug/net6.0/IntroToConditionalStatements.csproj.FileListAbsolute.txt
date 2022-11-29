@@ -1,0 +1,15 @@
+C:\Users\walbh\source\repos\HackerRank30Days\IntroToConditionalStatements\bin\Debug\net6.0\IntroToConditionalStatements.exe
+C:\Users\walbh\source\repos\HackerRank30Days\IntroToConditionalStatements\bin\Debug\net6.0\IntroToConditionalStatements.deps.json
+C:\Users\walbh\source\repos\HackerRank30Days\IntroToConditionalStatements\bin\Debug\net6.0\IntroToConditionalStatements.runtimeconfig.json
+C:\Users\walbh\source\repos\HackerRank30Days\IntroToConditionalStatements\bin\Debug\net6.0\IntroToConditionalStatements.dll
+C:\Users\walbh\source\repos\HackerRank30Days\IntroToConditionalStatements\bin\Debug\net6.0\IntroToConditionalStatements.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\IntroToConditionalStatements\obj\Debug\net6.0\IntroToConditionalStatements.csproj.AssemblyReference.cache
+C:\Users\walbh\source\repos\HackerRank30Days\IntroToConditionalStatements\obj\Debug\net6.0\IntroToConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walbh\source\repos\HackerRank30Days\IntroToConditionalStatements\obj\Debug\net6.0\IntroToConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\IntroToConditionalStatements\obj\Debug\net6.0\IntroToConditionalStatements.AssemblyInfo.cs
+C:\Users\walbh\source\repos\HackerRank30Days\IntroToConditionalStatements\obj\Debug\net6.0\IntroToConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\IntroToConditionalStatements\obj\Debug\net6.0\IntroToConditionalStatements.dll
+C:\Users\walbh\source\repos\HackerRank30Days\IntroToConditionalStatements\obj\Debug\net6.0\refint\IntroToConditionalStatements.dll
+C:\Users\walbh\source\repos\HackerRank30Days\IntroToConditionalStatements\obj\Debug\net6.0\IntroToConditionalStatements.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\IntroToConditionalStatements\obj\Debug\net6.0\IntroToConditionalStatements.genruntimeconfig.cache
+C:\Users\walbh\source\repos\HackerRank30Days\IntroToConditionalStatements\obj\Debug\net6.0\ref\IntroToConditionalStatements.dll

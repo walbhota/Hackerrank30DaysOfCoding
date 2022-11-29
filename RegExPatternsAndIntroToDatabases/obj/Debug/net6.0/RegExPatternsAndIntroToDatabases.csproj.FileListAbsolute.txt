@@ -1,0 +1,15 @@
+C:\Users\walbh\source\repos\HackerRank30Days\RegExPatternsAndIntroToDatabases\bin\Debug\net6.0\RegExPatternsAndIntroToDatabases.exe
+C:\Users\walbh\source\repos\HackerRank30Days\RegExPatternsAndIntroToDatabases\bin\Debug\net6.0\RegExPatternsAndIntroToDatabases.deps.json
+C:\Users\walbh\source\repos\HackerRank30Days\RegExPatternsAndIntroToDatabases\bin\Debug\net6.0\RegExPatternsAndIntroToDatabases.runtimeconfig.json
+C:\Users\walbh\source\repos\HackerRank30Days\RegExPatternsAndIntroToDatabases\bin\Debug\net6.0\RegExPatternsAndIntroToDatabases.dll
+C:\Users\walbh\source\repos\HackerRank30Days\RegExPatternsAndIntroToDatabases\bin\Debug\net6.0\RegExPatternsAndIntroToDatabases.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\RegExPatternsAndIntroToDatabases\obj\Debug\net6.0\RegExPatternsAndIntroToDatabases.csproj.AssemblyReference.cache
+C:\Users\walbh\source\repos\HackerRank30Days\RegExPatternsAndIntroToDatabases\obj\Debug\net6.0\RegExPatternsAndIntroToDatabases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walbh\source\repos\HackerRank30Days\RegExPatternsAndIntroToDatabases\obj\Debug\net6.0\RegExPatternsAndIntroToDatabases.AssemblyInfoInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\RegExPatternsAndIntroToDatabases\obj\Debug\net6.0\RegExPatternsAndIntroToDatabases.AssemblyInfo.cs
+C:\Users\walbh\source\repos\HackerRank30Days\RegExPatternsAndIntroToDatabases\obj\Debug\net6.0\RegExPatternsAndIntroToDatabases.csproj.CoreCompileInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\RegExPatternsAndIntroToDatabases\obj\Debug\net6.0\RegExPatternsAndIntroToDatabases.dll
+C:\Users\walbh\source\repos\HackerRank30Days\RegExPatternsAndIntroToDatabases\obj\Debug\net6.0\refint\RegExPatternsAndIntroToDatabases.dll
+C:\Users\walbh\source\repos\HackerRank30Days\RegExPatternsAndIntroToDatabases\obj\Debug\net6.0\RegExPatternsAndIntroToDatabases.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\RegExPatternsAndIntroToDatabases\obj\Debug\net6.0\RegExPatternsAndIntroToDatabases.genruntimeconfig.cache
+C:\Users\walbh\source\repos\HackerRank30Days\RegExPatternsAndIntroToDatabases\obj\Debug\net6.0\ref\RegExPatternsAndIntroToDatabases.dll

@@ -1,0 +1,15 @@
+C:\Users\walbh\source\repos\HackerRank30Days\RunnungTimeAndComplexity\bin\Debug\net6.0\RunnungTimeAndComplexity.exe
+C:\Users\walbh\source\repos\HackerRank30Days\RunnungTimeAndComplexity\bin\Debug\net6.0\RunnungTimeAndComplexity.deps.json
+C:\Users\walbh\source\repos\HackerRank30Days\RunnungTimeAndComplexity\bin\Debug\net6.0\RunnungTimeAndComplexity.runtimeconfig.json
+C:\Users\walbh\source\repos\HackerRank30Days\RunnungTimeAndComplexity\bin\Debug\net6.0\RunnungTimeAndComplexity.dll
+C:\Users\walbh\source\repos\HackerRank30Days\RunnungTimeAndComplexity\bin\Debug\net6.0\RunnungTimeAndComplexity.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\RunnungTimeAndComplexity\obj\Debug\net6.0\RunnungTimeAndComplexity.csproj.AssemblyReference.cache
+C:\Users\walbh\source\repos\HackerRank30Days\RunnungTimeAndComplexity\obj\Debug\net6.0\RunnungTimeAndComplexity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walbh\source\repos\HackerRank30Days\RunnungTimeAndComplexity\obj\Debug\net6.0\RunnungTimeAndComplexity.AssemblyInfoInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\RunnungTimeAndComplexity\obj\Debug\net6.0\RunnungTimeAndComplexity.AssemblyInfo.cs
+C:\Users\walbh\source\repos\HackerRank30Days\RunnungTimeAndComplexity\obj\Debug\net6.0\RunnungTimeAndComplexity.csproj.CoreCompileInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\RunnungTimeAndComplexity\obj\Debug\net6.0\RunnungTimeAndComplexity.dll
+C:\Users\walbh\source\repos\HackerRank30Days\RunnungTimeAndComplexity\obj\Debug\net6.0\refint\RunnungTimeAndComplexity.dll
+C:\Users\walbh\source\repos\HackerRank30Days\RunnungTimeAndComplexity\obj\Debug\net6.0\RunnungTimeAndComplexity.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\RunnungTimeAndComplexity\obj\Debug\net6.0\RunnungTimeAndComplexity.genruntimeconfig.cache
+C:\Users\walbh\source\repos\HackerRank30Days\RunnungTimeAndComplexity\obj\Debug\net6.0\ref\RunnungTimeAndComplexity.dll

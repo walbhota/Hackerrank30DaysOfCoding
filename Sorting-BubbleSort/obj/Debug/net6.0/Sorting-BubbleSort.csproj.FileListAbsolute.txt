@@ -1,0 +1,15 @@
+C:\Users\walbh\source\repos\HackerRank30Days\Sorting-BubbleSort\bin\Debug\net6.0\Sorting-BubbleSort.exe
+C:\Users\walbh\source\repos\HackerRank30Days\Sorting-BubbleSort\bin\Debug\net6.0\Sorting-BubbleSort.deps.json
+C:\Users\walbh\source\repos\HackerRank30Days\Sorting-BubbleSort\bin\Debug\net6.0\Sorting-BubbleSort.runtimeconfig.json
+C:\Users\walbh\source\repos\HackerRank30Days\Sorting-BubbleSort\bin\Debug\net6.0\Sorting-BubbleSort.dll
+C:\Users\walbh\source\repos\HackerRank30Days\Sorting-BubbleSort\bin\Debug\net6.0\Sorting-BubbleSort.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\Sorting-BubbleSort\obj\Debug\net6.0\Sorting-BubbleSort.csproj.AssemblyReference.cache
+C:\Users\walbh\source\repos\HackerRank30Days\Sorting-BubbleSort\obj\Debug\net6.0\Sorting-BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walbh\source\repos\HackerRank30Days\Sorting-BubbleSort\obj\Debug\net6.0\Sorting-BubbleSort.AssemblyInfoInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\Sorting-BubbleSort\obj\Debug\net6.0\Sorting-BubbleSort.AssemblyInfo.cs
+C:\Users\walbh\source\repos\HackerRank30Days\Sorting-BubbleSort\obj\Debug\net6.0\Sorting-BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\Sorting-BubbleSort\obj\Debug\net6.0\Sorting-BubbleSort.dll
+C:\Users\walbh\source\repos\HackerRank30Days\Sorting-BubbleSort\obj\Debug\net6.0\refint\Sorting-BubbleSort.dll
+C:\Users\walbh\source\repos\HackerRank30Days\Sorting-BubbleSort\obj\Debug\net6.0\Sorting-BubbleSort.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\Sorting-BubbleSort\obj\Debug\net6.0\Sorting-BubbleSort.genruntimeconfig.cache
+C:\Users\walbh\source\repos\HackerRank30Days\Sorting-BubbleSort\obj\Debug\net6.0\ref\Sorting-BubbleSort.dll

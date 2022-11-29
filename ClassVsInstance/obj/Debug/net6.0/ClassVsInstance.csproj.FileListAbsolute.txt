@@ -1,0 +1,15 @@
+C:\Users\walbh\source\repos\HackerRank30Days\ClassVsInstance\bin\Debug\net6.0\ClassVsInstance.exe
+C:\Users\walbh\source\repos\HackerRank30Days\ClassVsInstance\bin\Debug\net6.0\ClassVsInstance.deps.json
+C:\Users\walbh\source\repos\HackerRank30Days\ClassVsInstance\bin\Debug\net6.0\ClassVsInstance.runtimeconfig.json
+C:\Users\walbh\source\repos\HackerRank30Days\ClassVsInstance\bin\Debug\net6.0\ClassVsInstance.dll
+C:\Users\walbh\source\repos\HackerRank30Days\ClassVsInstance\bin\Debug\net6.0\ClassVsInstance.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\ClassVsInstance\obj\Debug\net6.0\ClassVsInstance.csproj.AssemblyReference.cache
+C:\Users\walbh\source\repos\HackerRank30Days\ClassVsInstance\obj\Debug\net6.0\ClassVsInstance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walbh\source\repos\HackerRank30Days\ClassVsInstance\obj\Debug\net6.0\ClassVsInstance.AssemblyInfoInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\ClassVsInstance\obj\Debug\net6.0\ClassVsInstance.AssemblyInfo.cs
+C:\Users\walbh\source\repos\HackerRank30Days\ClassVsInstance\obj\Debug\net6.0\ClassVsInstance.csproj.CoreCompileInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\ClassVsInstance\obj\Debug\net6.0\ClassVsInstance.dll
+C:\Users\walbh\source\repos\HackerRank30Days\ClassVsInstance\obj\Debug\net6.0\refint\ClassVsInstance.dll
+C:\Users\walbh\source\repos\HackerRank30Days\ClassVsInstance\obj\Debug\net6.0\ClassVsInstance.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\ClassVsInstance\obj\Debug\net6.0\ClassVsInstance.genruntimeconfig.cache
+C:\Users\walbh\source\repos\HackerRank30Days\ClassVsInstance\obj\Debug\net6.0\ref\ClassVsInstance.dll

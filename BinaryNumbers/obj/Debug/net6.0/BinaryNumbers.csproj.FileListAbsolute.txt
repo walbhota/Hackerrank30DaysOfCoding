@@ -1,0 +1,15 @@
+C:\Users\walbh\source\repos\HackerRank30Days\BinaryNumbers\bin\Debug\net6.0\BinaryNumbers.exe
+C:\Users\walbh\source\repos\HackerRank30Days\BinaryNumbers\bin\Debug\net6.0\BinaryNumbers.deps.json
+C:\Users\walbh\source\repos\HackerRank30Days\BinaryNumbers\bin\Debug\net6.0\BinaryNumbers.runtimeconfig.json
+C:\Users\walbh\source\repos\HackerRank30Days\BinaryNumbers\bin\Debug\net6.0\BinaryNumbers.dll
+C:\Users\walbh\source\repos\HackerRank30Days\BinaryNumbers\bin\Debug\net6.0\BinaryNumbers.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\BinaryNumbers\obj\Debug\net6.0\BinaryNumbers.csproj.AssemblyReference.cache
+C:\Users\walbh\source\repos\HackerRank30Days\BinaryNumbers\obj\Debug\net6.0\BinaryNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walbh\source\repos\HackerRank30Days\BinaryNumbers\obj\Debug\net6.0\BinaryNumbers.AssemblyInfoInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\BinaryNumbers\obj\Debug\net6.0\BinaryNumbers.AssemblyInfo.cs
+C:\Users\walbh\source\repos\HackerRank30Days\BinaryNumbers\obj\Debug\net6.0\BinaryNumbers.csproj.CoreCompileInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\BinaryNumbers\obj\Debug\net6.0\BinaryNumbers.dll
+C:\Users\walbh\source\repos\HackerRank30Days\BinaryNumbers\obj\Debug\net6.0\refint\BinaryNumbers.dll
+C:\Users\walbh\source\repos\HackerRank30Days\BinaryNumbers\obj\Debug\net6.0\BinaryNumbers.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\BinaryNumbers\obj\Debug\net6.0\BinaryNumbers.genruntimeconfig.cache
+C:\Users\walbh\source\repos\HackerRank30Days\BinaryNumbers\obj\Debug\net6.0\ref\BinaryNumbers.dll

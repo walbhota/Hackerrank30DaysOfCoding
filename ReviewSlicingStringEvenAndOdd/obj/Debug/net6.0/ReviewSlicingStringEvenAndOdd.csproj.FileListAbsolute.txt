@@ -1,0 +1,15 @@
+C:\Users\walbh\source\repos\HackerRank30Days\ReviewSlicingStringEvenAndOdd\bin\Debug\net6.0\ReviewSlicingStringEvenAndOdd.exe
+C:\Users\walbh\source\repos\HackerRank30Days\ReviewSlicingStringEvenAndOdd\bin\Debug\net6.0\ReviewSlicingStringEvenAndOdd.deps.json
+C:\Users\walbh\source\repos\HackerRank30Days\ReviewSlicingStringEvenAndOdd\bin\Debug\net6.0\ReviewSlicingStringEvenAndOdd.runtimeconfig.json
+C:\Users\walbh\source\repos\HackerRank30Days\ReviewSlicingStringEvenAndOdd\bin\Debug\net6.0\ReviewSlicingStringEvenAndOdd.dll
+C:\Users\walbh\source\repos\HackerRank30Days\ReviewSlicingStringEvenAndOdd\bin\Debug\net6.0\ReviewSlicingStringEvenAndOdd.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\ReviewSlicingStringEvenAndOdd\obj\Debug\net6.0\ReviewSlicingStringEvenAndOdd.csproj.AssemblyReference.cache
+C:\Users\walbh\source\repos\HackerRank30Days\ReviewSlicingStringEvenAndOdd\obj\Debug\net6.0\ReviewSlicingStringEvenAndOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walbh\source\repos\HackerRank30Days\ReviewSlicingStringEvenAndOdd\obj\Debug\net6.0\ReviewSlicingStringEvenAndOdd.AssemblyInfoInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\ReviewSlicingStringEvenAndOdd\obj\Debug\net6.0\ReviewSlicingStringEvenAndOdd.AssemblyInfo.cs
+C:\Users\walbh\source\repos\HackerRank30Days\ReviewSlicingStringEvenAndOdd\obj\Debug\net6.0\ReviewSlicingStringEvenAndOdd.csproj.CoreCompileInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\ReviewSlicingStringEvenAndOdd\obj\Debug\net6.0\ReviewSlicingStringEvenAndOdd.dll
+C:\Users\walbh\source\repos\HackerRank30Days\ReviewSlicingStringEvenAndOdd\obj\Debug\net6.0\refint\ReviewSlicingStringEvenAndOdd.dll
+C:\Users\walbh\source\repos\HackerRank30Days\ReviewSlicingStringEvenAndOdd\obj\Debug\net6.0\ReviewSlicingStringEvenAndOdd.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\ReviewSlicingStringEvenAndOdd\obj\Debug\net6.0\ReviewSlicingStringEvenAndOdd.genruntimeconfig.cache
+C:\Users\walbh\source\repos\HackerRank30Days\ReviewSlicingStringEvenAndOdd\obj\Debug\net6.0\ref\ReviewSlicingStringEvenAndOdd.dll

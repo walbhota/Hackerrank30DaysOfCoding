@@ -1,0 +1,15 @@
+C:\Users\walbh\source\repos\HackerRank30Days\MoreLinkedLists\bin\Debug\net6.0\MoreLinkedLists.exe
+C:\Users\walbh\source\repos\HackerRank30Days\MoreLinkedLists\bin\Debug\net6.0\MoreLinkedLists.deps.json
+C:\Users\walbh\source\repos\HackerRank30Days\MoreLinkedLists\bin\Debug\net6.0\MoreLinkedLists.runtimeconfig.json
+C:\Users\walbh\source\repos\HackerRank30Days\MoreLinkedLists\bin\Debug\net6.0\MoreLinkedLists.dll
+C:\Users\walbh\source\repos\HackerRank30Days\MoreLinkedLists\bin\Debug\net6.0\MoreLinkedLists.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\MoreLinkedLists\obj\Debug\net6.0\MoreLinkedLists.csproj.AssemblyReference.cache
+C:\Users\walbh\source\repos\HackerRank30Days\MoreLinkedLists\obj\Debug\net6.0\MoreLinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walbh\source\repos\HackerRank30Days\MoreLinkedLists\obj\Debug\net6.0\MoreLinkedLists.AssemblyInfoInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\MoreLinkedLists\obj\Debug\net6.0\MoreLinkedLists.AssemblyInfo.cs
+C:\Users\walbh\source\repos\HackerRank30Days\MoreLinkedLists\obj\Debug\net6.0\MoreLinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\walbh\source\repos\HackerRank30Days\MoreLinkedLists\obj\Debug\net6.0\MoreLinkedLists.dll
+C:\Users\walbh\source\repos\HackerRank30Days\MoreLinkedLists\obj\Debug\net6.0\refint\MoreLinkedLists.dll
+C:\Users\walbh\source\repos\HackerRank30Days\MoreLinkedLists\obj\Debug\net6.0\MoreLinkedLists.pdb
+C:\Users\walbh\source\repos\HackerRank30Days\MoreLinkedLists\obj\Debug\net6.0\MoreLinkedLists.genruntimeconfig.cache
+C:\Users\walbh\source\repos\HackerRank30Days\MoreLinkedLists\obj\Debug\net6.0\ref\MoreLinkedLists.dll
